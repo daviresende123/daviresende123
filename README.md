@@ -1,15 +1,15 @@
 # 👩🏻‍💻 Davi Gomides
 
-**`Desenvolvedor FrontEnd`**
+**`Full-Stack Developer`**
 
-Me chamo Davi Gomides Otaviano Resende, estudante de Ciência da Computação na UFLA.
-Sou apaixonado por tecnologia e design de interfaces, com foco em desenvolvimento front-end usando HTML, CSS, JavaScript e React.js.
-Tenho uma boa base em estruturas de dados, teoria dos grafos e bancos de dados, o que me ajuda a criar aplicações eficientes e bem estruturadas. Atualmente, estou me aprofundando em desenvolvimento web fullstack e construindo projetos próprios para aprimorar minhas habilidades.
-Sou fluente em inglês (nível C2 - EF SET) e estou em busca da minha primeira oportunidade profissional na área de tecnologia, especialmente como desenvolvedor front-end.
+My name is Davi Gomides Otaviano Resende, and I am a Computer Science student at UFLA.
+I am passionate about technology and interface design, with a strong focus on front-end development right now, using HTML, CSS, JavaScript, and React.js.
+I have a solid foundation in data structures, graph theory, and databases, which helps me build efficient and well-structured applications. Currently, I am deepening my knowledge in fullstack web development and building personal projects to further enhance my skills.
+I am fluent in English (C2 level – EF SET) and am seeking my first professional opportunity in the technology field, especially as a front-end developer.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 My Tools
 
 <img 
     align="left" 
