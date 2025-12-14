@@ -47,20 +47,20 @@ I am fluent in English (C2 level – EF SET) and am seeking my first professiona
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Springboot" 
+    title="Springboot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 <img 
@@ -83,11 +83,11 @@ I am fluent in English (C2 level – EF SET) and am seeking my first professiona
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 
 <img 
